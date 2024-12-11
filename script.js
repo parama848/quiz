@@ -1,3 +1,4 @@
+/*QUIZ APP*/
 const questions=[
     {
         question: "Which is our national animal?",
